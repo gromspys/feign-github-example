@@ -4,6 +4,9 @@ To generate classes from json schema, run:
 
 ```./mvnw clean install```
 
+This repository is used as an example in my article [Microservices Integration: A Guide to Simplify Project Complexity with Feign Client and POJO Classes](https://hackernoon.com/microservices-integration-a-guide-to-simplify-project-complexity-with-feign-client-and-pojo-classes)
+
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
